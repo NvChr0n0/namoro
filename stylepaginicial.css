@@ -15,12 +15,11 @@ body{
 
 h1{
     font-size: 1rem;
-    margin-top: 10.5rem;
+    margin-top: 7.5rem;
 }
 
 .countdown-container{
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
 }
 
