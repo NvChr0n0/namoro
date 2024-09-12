@@ -4,7 +4,7 @@ const minsEl = document.getElementById("mins");
 const secondsEl = document.getElementById("seconds");
 
 const newYers = "12 sep 2024";
-const redirecionar = "index.html";
+const redirecionar = "quer.html";
 
 function countdown(){
 
